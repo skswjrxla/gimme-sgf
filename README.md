@@ -15,7 +15,7 @@ you have to copy and paste the url
 Also you gotta download chromedriver and put it on windows directory, then run it.
 
 # why no exe?
-I wanted to make these into .exe files but failed. and im tired 
+I wanted to make these into .exe files but failed.
 
 
 
